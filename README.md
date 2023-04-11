@@ -1,53 +1,29 @@
 ---
 published: true
-status: in_progress/complete/archived
-date: 10/19/2018
-tags: tagname
-description:
-slug: title-kebab-case
+status: complete
+date: 10/27/2019
+tags: woodworking, house
+description: Barn door acting as a large pocket door to separate the shop from the garage in our home.
+slug: shop-barn-door
 ---
-# Title
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
+# Shop Barn Door
+
+Barn door acting as a large pocket door to separate the shop from the garage in our home.
 
 ## Table of Contents
-- [Title](#title)
+
+- [Shop Barn Door](#shop-barn-door)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
   - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Usage](#usage)
-  - [Notes](#notes)
-  - [Sources](#sources)
 
 ## General Info
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+We built this large barn door to separate the new shop from the rest of the garage. Simple construction using 1/2 inch plywood and 1 inch dimensional lumber. It slides on pretty heavy-duty barn door rollers and tucks into a pocket wall behind the lumber racks.
+
+This door allows us to separate the shop for dust management and noise reasons, but perhaps more importantly to give the heater a break from heating the entire space during the coldest months.
 
 ## Technologies
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-## Notes
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-## Sources
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- Sketchup
